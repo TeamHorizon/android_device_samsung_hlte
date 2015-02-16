@@ -32,3 +32,7 @@ TARGET_USERIMAGES_USE_EXT4 := true
 
 # inherit from the proprietary version
 -include vendor/samsung/hlte/BoardConfigVendor.mk
+
+
+# BlissPop Cinfigs
+Bliss_Build_Block := 1
