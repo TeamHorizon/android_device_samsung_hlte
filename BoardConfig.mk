@@ -36,3 +36,11 @@ TARGET_USERIMAGES_USE_EXT4 := true
 
 # BlissPop Cinfigs
 Bliss_Build_Block := 1
+
+# Bissiful building options
+#BLISSIFY :=true
+BLISS_O3 := true
+BLISS_STRICT := true
+BLISS_KRAIT := true
+TARGET_TC_ROM := 4.8
+TARGET_TC_KERNEL := 4.9
