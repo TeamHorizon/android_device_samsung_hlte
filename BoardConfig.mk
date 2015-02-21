@@ -42,5 +42,5 @@ Bliss_Build_Block := 1
 BLISS_O3 := true
 BLISS_STRICT := true
 BLISS_KRAIT := true
-TARGET_TC_ROM := 4.8
-TARGET_TC_KERNEL := 4.8
+TARGET_TC_ROM := 4.8-sm
+TARGET_TC_KERNEL := 4.8-sm
