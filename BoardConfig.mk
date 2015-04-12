@@ -36,12 +36,12 @@ TARGET_USERIMAGES_USE_EXT4 := true
 
 
 # BlissPop Configs
-TARGET_TC_ROM := 4.8-sm
-TARGET_TC_KERNEL := 4.8-sm
+TARGET_TC_ROM := 4.8-linaro
+TARGET_TC_KERNEL := 4.8-linaro
 BLISSIFY := true
 BLISS_O3 := true
-BLISS_STRICT := true
-BLISS_GRAPHITE := true
+BLISS_STRICT := falde
+BLISS_GRAPHITE := false
 BLISS_KRAIT := true
 BLISS_PIPE := true
 TARGET_GCC_VERSION_EXP := $(TARGET_TC_ROM)
