@@ -1,26 +1,56 @@
 [
   {
-    "remote": "TeamBliss-Devices", 
-    "repository": "android_device_samsung_hlte-common",
-    "target_path": "device/samsung/hlte-common", 
-    "revision": "lp5.1"
+    "remote": "cm",
+    "repository": "android_hardware_samsung",
+    "target_path": "hardware/samsung",
+    "revision": "cm-12.1"
   },
   {
-    "remote": "TeamBliss-Devices", 
+    "remote": "TeamBliss-Devices",
     "repository": "android_kernel_samsung_hlte",
-    "target_path": "kernel/samsung/hlte", 
+    "target_path": "kernel/samsung/hlte",
     "revision": "lp5.1"
   },
   {
     "remote": "TeamBliss-Devices",
-    "repository": "android_device_samsung_smdk4412-common",
-    "target_path": "device/samsung/smdk4412-common",
+    "repository": "android_device_samsung_hlte-common",
+    "target_path": "device/samsung/hlte-common",
     "revision": "lp5.1"
+  },
+  {
+    "remote": "cm",
+    "repository": "android_device_samsung_msm8974-common",
+    "target_path": "device/samsung/msm8974-common",
+    "revision": "cm-12.1"
   },
   {
     "remote": "cm",
     "repository": "android_device_samsung_qcom-common",
     "target_path": "device/samsung/qcom-common",
+    "revision": "cm-12.1"
+  },
+  {
+    "remote": "cm",
+    "repository": "android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "revision": "cm-12.1"
+  },
+  {
+    "remote": "cm",
+    "repository": "android_hardware_samsung",
+    "target_path": "hardware/samsung",
+    "revision": "cm-12.1"
+  },
+  {
+    "remote": "cm",
+    "repository": "android_packages_apps_SamsungServiceMode",
+    "target_path": "packages/apps/SamsungServiceMode",
+    "revision": "cm-12.1"
+  },
+  {
+    "remote": "githib",
+    "repository": "TheMuppets/proprietary_vendor_samsung",
+    "target_path": "vendor/samsung",
     "revision": "cm-12.1"
   }
 ]
