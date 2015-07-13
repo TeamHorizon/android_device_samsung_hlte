@@ -48,7 +48,7 @@
     "revision": "cm-12.1"
   },
   {
-    "remote": "githib",
+    "remote": "github",
     "repository": "TheMuppets/proprietary_vendor_samsung",
     "target_path": "vendor/samsung",
     "revision": "cm-12.1"
